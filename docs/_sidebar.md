@@ -1,8 +1,10 @@
-- 第1章 [我是第1章的标题](chapter1/chapter1)
-- 第2章 我是第2章的标题
-    - [2.1 我是2.1的标题](chapter2/chapter2_1)
-    - [2.2 我是2.2的标题](chapter2/chapter2_2)
-- 第3章 我是第3章的标题
-    - 3.1 我是3.1的标题
-        - 3.1.1 [我是3.1.1的标题](chapter3/chapter3_1/chapter3_1_1)
-        - 3.1.2 [我是3.1.2的标题](chapter3/chapter3_1/chapter3_1_2)
+* [目录](README.md)
+  * Awesome Compression
+    * [第1章 引言](contents/ch01.md)
+    * [第2章 深度学习基础](contents/ch02.md)
+    * [第3章 模型剪枝](contents/ch03.md)
+    * [第4章 量化](contents/ch04.md)
+    * [第5章 神经网络架构搜索](contents/ch05.md)
+    * [第6章 知识蒸馏](contents/ch06.md)
+    * [第7章 项目实践](contents/ch07.md)
+
