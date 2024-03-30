@@ -58,7 +58,7 @@
 | :----| :---- | :---- |
 | [陈玉立](https://github.com/ironartisan) | 项目负责人 | Datawhale成员-北京邮电大学研究生 |
 | [姜蔚蔚](https://jwwthu.github.io) | 第x章贡献者 | 北京邮电大学助理教授 |
-
+| [孙韩玉](https://github.com/sunhanyu714) | 第4章贡献者 | 模型部署工程师 |
 ## 环境安装
 ### Node.js版本
 
