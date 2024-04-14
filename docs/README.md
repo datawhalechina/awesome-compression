@@ -60,6 +60,7 @@
 | [姜蔚蔚](https://jwwthu.github.io) | 第x章贡献者 | 北京邮电大学助理教授 |
 | [孙韩玉](https://github.com/sunhanyu714) | 第4章贡献者 | 模型部署工程师 |
 | [魏育康](https://github.com/JinYu1998)   | 第6章贡献者 | 河北科技大学研究生 |
+
 ## 环境安装
 ### Node.js版本
 
