@@ -57,8 +57,11 @@
 | 姓名 | 职责 | 简介 |
 | :----| :---- | :---- |
 | [陈玉立](https://github.com/ironartisan) | 项目负责人 | Datawhale成员-北京邮电大学研究生 |
-| [姜蔚蔚](https://jwwthu.github.io) | 第x章贡献者 | 北京邮电大学助理教授 |
+| [姜蔚蔚](https://jwwthu.github.io) | 第1、2章贡献者 | 北京邮电大学助理教授 |
 | [孙韩玉](https://github.com/sunhanyu714) | 第4章贡献者 | 模型部署工程师 |
+| [张艺杰](https://github.com/Wings236) | 第5章贡献者 | 暨南大学研究生 |
+| [魏育康](https://github.com/JinYu1998)   | 第6章贡献者 | 河北科技大学研究生 |
+
 ## 环境安装
 ### Node.js版本
 
@@ -86,4 +89,6 @@ docsify serve ./docs
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/awesome-compression&type=Date)](https://star-history.com/#datawhalechina/awesome-compression)  
