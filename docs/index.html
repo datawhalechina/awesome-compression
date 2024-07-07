@@ -39,6 +39,17 @@
             color:'rgb(90,90,90)',
             language:'chinese',
             isExpected: true
+        },
+        markdown: {
+            renderer: {
+                image: function(href, title, text) {
+                    // 按照原来的渲染 img
+                    var image_html = this.origin.image.apply(this, arguments)
+                    // 用 figure 包一下图片，实现居中
+                    return '<figure>' + image_html + '<figcaption>' + text +
+                        '</figcaption></figure>'
+                }
+            }
         }
     }
 </script>
@@ -62,5 +73,12 @@
 <script src="//cdn.jsdelivr.net/npm/docsify@latest/lib/plugins/search.js"></script>
 <!-- count -->
 <script src="//cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+
+
+<style>
+  figure {
+      text-align: center;
+    }
+</style>
 </body>
 </html>
