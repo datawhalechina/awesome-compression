@@ -6,3 +6,5 @@ torch== 2.4.1
 torchvision==0.19.1
 torchprofile==0.0.4
 torchsummary==1.5.1
+fast-pytorch-kmeans
+scipy
