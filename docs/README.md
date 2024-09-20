@@ -40,7 +40,7 @@
 
 ## 环境安装
 
-本项目实践代码基于Python 3.10，具体安装环境如下：[INSTALL.md](./notebook/INSTALL.md)
+本项目实践代码基于Python 3.10，具体安装环境请参考：[INSTALL.md](./notebook/INSTALL.md)
 
 ## 参与贡献
 
