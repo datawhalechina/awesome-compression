@@ -5,6 +5,6 @@
 ```
 conda create -n compression python=3.10
 conda activate compression
-pip install - r requirements.txt
+pip install -r requirements.txt
 ```
 
