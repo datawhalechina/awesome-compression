@@ -3,7 +3,7 @@
 
 ## 项目简介
 
-&emsp;&emsp;随着ChatGPT的出圈，大语言模型层出不穷，并展现出非凡的能力，可以有效地解决各种问题。然而，这些模型通常需要大量的计算资源和内存，导致运行时资源消耗较高，限制了其在某些场景下的应用，让很多研究者望而却步。本项目使用通俗易懂的语言介绍模型的剪枝、量化、知识蒸馏等压缩方法，让更多的小白能更快了解到模型压缩技术。
+&emsp;&emsp;随着ChatGPT的出圈，大语言模型层出不穷，并展现出非凡的能力，可以有效地解决各种问题。然而，这些模型通常需要大量的计算资源和内存，导致运行时资源消耗较高，限制了其在某些场景下的应用，让很多研究者望而却步。本项目使用通俗易懂的语言介绍模型的剪枝、量化、知识蒸馏、低秩分解等压缩方法，让更多的小白能更快了解到模型压缩技术。
 
 在线阅读地址: https://datawhalechina.github.io/awesome-compression
 
@@ -55,7 +55,8 @@ docsify serve ./docs
 - [第4章 模型量化](https://datawhalechina.github.io/awesome-compression/#/ch04/ch04)
 - [第5章 神经网络架构搜索](https://datawhalechina.github.io/awesome-compression/#/ch05/ch05)
 - [第6章 知识蒸馏](https://datawhalechina.github.io/awesome-compression/#/ch06/ch06)
-- [第7章 项目实践](https://datawhalechina.github.io/awesome-compression/#/ch07/ch07)
+- [第7章 低秩分解](https://datawhalechina.github.io/awesome-compression/#/ch07/ch07)
+- [第8章 项目实践](https://datawhalechina.github.io/awesome-compression/#/ch08/ch08)
 
 > 若对大模型压缩感兴趣，欢迎关注Datawhale开源项目[llm-deploy](https://datawhalechina.github.io/llm-deploy)
 
@@ -76,6 +77,7 @@ docsify serve ./docs
 | [孙韩玉](https://github.com/sunhanyu714) |  模型部署工程师 |
 | [张艺杰](https://github.com/Wings236) |  暨南大学研究生 |
 | [魏育康](https://github.com/JinYu1998)    | 河北科技大学研究生 |
+| [母鈺川](https://github.com/mYcc-one)    | 北京邮电大学研究生 |
 | [宁致远](https://github.com/telegraph-pole-head)| 上海交通大学本科生 |
 
 ## 致谢
