@@ -27,9 +27,6 @@
 - 提供通俗易懂的理论内容来科普模型压缩技术；
 - 提供实践代码，结合实际场景帮助学习者更好地理解理论内容。
 
-## 实践环境安装
-
-本项目实践代码基于Python 3.10，具体安装环境请参考：[INSTALL.md](./docs/notebook/INSTALL.md)
 
 ## 本地在线阅读环境安装
 ### Node.js版本
@@ -45,6 +42,32 @@ npm i docsify-cli -g
 ### 启动docsify
 ```shell
 docsify serve ./docs
+```
+
+## 环境安装
+
+本项目实践代码基于Python 3.10，推荐使用conda虚拟环境进行安装。
+
+requirements.txt 文件内容如下：
+```
+numpy==1.24.3
+matplotlib==3.9.2
+tqdm==4.66.5
+jupyter==1.1.1
+torch==2.1.0
+torchvision==0.16.0
+torchprofile==0.0.4
+torchsummary==1.5.1
+fast-pytorch-kmeans
+scipy
+datasets
+```
+使用以下命令创建虚拟环境
+
+```
+conda create -n compression python=3.10
+conda activate compression
+pip install -r requirements.txt
 ```
 
 ### 目录
